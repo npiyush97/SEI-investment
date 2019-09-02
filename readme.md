@@ -1,4 +1,4 @@
-This is an responsive, simple, resuable, ready to deploy website.
+This is an responsive, simple, reusable, ready to deploy website.
 
 HTML/CSS/JAVASCRIPT.
 
